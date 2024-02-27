@@ -1,5 +1,5 @@
 # webview_bind_to_lib
-How to use webview linked to the compiled library.
+How to use webview linked to dynamic library webview.so or webview.dll.
 
 <p>I found the nim code <a href="https://forum.nim-lang.org/t/10301#68798">on this post on nim forum</a>.<br/>
 I found it very useful. It is possible to call a nim proc from a javascript function inside webview html page.</p>
